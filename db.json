@@ -32,7 +32,7 @@
     },
     {
       "id": 7,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
       "author": "Confucius"
     },
     {
@@ -54,6 +54,21 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "To every action there is always opposed an equal reaction.",
+      "author": "Isaac Newton",
+      "id": 12
+    },
+    {
+      "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+      "author": "Albert Einstein",
+      "id": 13
+    },
+    {
+      "quote": "Logic will get you from A to Z; imagination will get you everywhere.",
+      "author": "Albert Einstein",
+      "id": 14
     }
   ],
   "likes": [
@@ -66,6 +81,166 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 2,
+      "id": 3
+    },
+    {
+      "quoteId": 3,
+      "id": 4
+    },
+    {
+      "quoteId": 14,
+      "id": 5
+    },
+    {
+      "quoteId": 13,
+      "id": 6
+    },
+    {
+      "quoteId": 13,
+      "id": 7
+    },
+    {
+      "quoteId": 14,
+      "id": 8
+    },
+    {
+      "quoteId": 14,
+      "id": 9
+    },
+    {
+      "quoteId": 14,
+      "id": 10
+    },
+    {
+      "quoteId": 14,
+      "id": 11
+    },
+    {
+      "quoteId": 1,
+      "id": 12
+    },
+    {
+      "quoteId": 1,
+      "id": 13
+    },
+    {
+      "quoteId": 3,
+      "id": 14
+    },
+    {
+      "quoteId": 4,
+      "id": 15
+    },
+    {
+      "quoteId": 7,
+      "id": 16
+    },
+    {
+      "quoteId": 8,
+      "id": 17
+    },
+    {
+      "quoteId": 2,
+      "id": 18
+    },
+    {
+      "quoteId": 12,
+      "id": 19
+    },
+    {
+      "quoteId": 12,
+      "id": 20
+    },
+    {
+      "quoteId": 13,
+      "id": 23
+    },
+    {
+      "quoteId": 11,
+      "id": 24
+    },
+    {
+      "quoteId": 14,
+      "id": 25
+    },
+    {
+      "quoteId": 5,
+      "id": 26
+    },
+    {
+      "quoteId": 9,
+      "id": 27
+    },
+    {
+      "quoteId": 14,
+      "id": 29
+    },
+    {
+      "quoteId": 11,
+      "id": 30
+    },
+    {
+      "quoteId": 13,
+      "id": 31
+    },
+    {
+      "quoteId": 12,
+      "id": 32
+    },
+    {
+      "quoteId": 6,
+      "id": 34
+    },
+    {
+      "quoteId": 8,
+      "id": 35
+    },
+    {
+      "quoteId": 10,
+      "id": 36
+    },
+    {
+      "quoteId": 13,
+      "id": 38
+    },
+    {
+      "quoteId": 4,
+      "id": 39
+    },
+    {
+      "quoteId": 11,
+      "id": 40
+    },
+    {
+      "quoteId": 11,
+      "id": 41
+    },
+    {
+      "quoteId": 14,
+      "id": 42
+    },
+    {
+      "quoteId": 6,
+      "id": 43
+    },
+    {
+      "quoteId": 6,
+      "id": 44
+    },
+    {
+      "quoteId": 6,
+      "id": 45
+    },
+    {
+      "quoteId": 6,
+      "id": 46
+    },
+    {
+      "quoteId": 6,
+      "id": 47
     }
   ]
 }
